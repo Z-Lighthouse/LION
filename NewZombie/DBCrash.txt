@@ -1,0 +1,417 @@
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_1</a>' cannot be added simulink/Commonly
+Used Blocks/Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_36_1</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_39_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_36_1</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_2_36_1</a>' cannot be added simulink/Math
+Operations/Assignment
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_37_1</a>' cannot be added simulink/Discrete/Discrete Transfer Fcn
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_37_2</a>' cannot be added simulink/Sinks/Record
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_3','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_35_3</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_37_2</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Bias
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_2</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_3','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_3</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_35_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_35_1</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_39_1</a>' cannot be added simulink/Commonly
+Used Blocks/Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1</a>' cannot be added simulink/Commonly
+Used Blocks/Terminator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_2</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_19_1</a>' cannot be added simulink/Signal
+Routing/Manual
+Variant Sink
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_19_2','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_19_2</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_35_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_35_1</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_2</a>' cannot be added simulink/Math Operations/Sign
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_31_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_31_1</a>' cannot be added simulink/Math Operations/Sign
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_31_2','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_31_2</a>' cannot be added simulink/Discrete/Discrete Transfer Fcn
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_2</a>' cannot be added simulink/Discrete/Discrete FIR Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_1</a>' cannot be added simulink/Math Operations/MinMax
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_2</a>' cannot be added simulink/Math
+Operations/Rounding
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_1</a>' cannot be added simulink/Commonly
+Used Blocks/Gain
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_2</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_2</a>' cannot be added simulink/Math Operations/Complex to Magnitude-Angle
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_3','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_33_3</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_37_1</a>' cannot be added simulink/Math Operations/MinMax
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_37_2</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_37_3','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_37_3</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_39_1</a>' cannot be added simulink/Commonly
+Used Blocks/Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations/Bias
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_34_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_34_1</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_34_2','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_34_2</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_35_2</a>' cannot be added simulink/Math Operations/Permute Dimensions
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Discrete Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_2</a>' cannot be added simulink/Math
+Operations/Squeeze
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_3','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_3</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_37_1</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_39_1</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_37_1</a>' cannot be added simulink/Ports & Subsystems/If
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_39_1</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_1</a>' cannot be added simulink/Discrete/Discrete Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_37_2</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_39_1</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_39_1</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_39_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_39_2</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Data Type Conversion
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_35_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_2_35_1</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_19_1</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_19_1</a>' cannot be added simulink/Math Operations/Complex to Real-Imag
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_1','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_1</a>' cannot be added simulink/Math
+Operations/Bias
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_2','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_2</a>' cannot be added simulink/Math Operations/MinMax
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_39_1</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_39_2','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_39_2</a>' cannot be added simulink/Commonly
+Used Blocks/Gain
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_39_1</a>' cannot be added simulink/Math
+Operations/Rounding
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_37_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Commonly
+Used Blocks/Gain
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1</a>' cannot be added simulink/Math Operations/MinMax
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_2_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Unit Delay
+There is no block named 'dontdoanything' dontdoanything
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_2_36_1</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1</a>' cannot be added simulink/Math Operations/MinMax
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_36_2</a>' cannot be added simulink/Discrete/Discrete Transfer Fcn
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_39_1</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_2</a>' cannot be added simulink/Math Operations/Complex to Magnitude-Angle
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_3','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_35_3</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_39_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_2_39_1</a>' cannot be added simulink/Sinks/Record
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations/Assignment
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_2</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_36_2</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/Complex to Magnitude-Angle
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk13_sb/startnzb_3_35_2</a>' cannot be added simulink/Commonly
+Used Blocks/Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_1','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_1','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_1</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_2','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_2_39_2</a>' cannot be added simulink/Discrete/Discrete Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations/Rounding
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_2</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_3','error')">sampleModel2_pp_1_1/cfblk14_sb/startnzb_3_36_3</a>' cannot be added simulink/Commonly
+Used Blocks/Data Type Conversion
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_2</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_3','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_3</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16_sb/startnzb_3_36_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_36_1</a>' cannot be added simulink/Math Operations/Assignment
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_36_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_36_2</a>' cannot be added simulink/Math Operations/Complex to Magnitude-Angle
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_36_3','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_36_3</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Squeeze
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_2</a>' cannot be added simulink/Commonly
+Used Blocks/Data Type Conversion
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_19_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_19_1</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_19_2','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_2_19_2</a>' cannot be added simulink/Commonly
+Used Blocks/Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_19_1</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk11_sb/startnzb_3_35_1</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_2_37_1</a>' cannot be added simulink/Math
+Operations/Squeeze
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_2_37_1</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_2_37_2</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_34_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_34_1</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_34_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_34_1</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_34_2','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_34_2</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk15_sb/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16_sb/startnzb_3_36_1</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sb/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk16_sb/startnzb_3_36_2</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_31_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_31_1</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_31_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_31_2</a>' cannot be added simulink/Signal
+Routing/Manual
+Variant Sink
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_35_1</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Gain
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_2</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_2</a>' cannot be added simulink/Math
+Operations/Assignment
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_2</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_3','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_3</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_2_39_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_2_39_1</a>' cannot be added simulink/Commonly
+Used Blocks/Gain
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Squeeze
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_35_2</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+There is no block named 'simulink/Math Operations/Signum' simulink/Math Operations/Signum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_2_36_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_2_36_2','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_2_36_2</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_1</a>' cannot be added simulink/Commonly
+Used Blocks/Sum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_1</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_2','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_2</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_2_37_1/startnzb_3_19_1</a>' cannot be added simulink/Math
+Operations/Rounding
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_19_1</a>' cannot be added simulink/Math Operations/Complex to Real-Imag
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_19_2','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_19_2</a>' cannot be added simulink/Math
+Operations
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Bias
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_2</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_2_34_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_2_34_1/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_2_37_1</a>' cannot be added simulink/Math Operations/Sign
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_2_37_2</a>' cannot be added simulink/Discrete/Discrete Transfer Fcn
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Sinks/Record
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_19_1</a>' cannot be added simulink/Discrete/Discrete FIR Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_2_36_1</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_2_36_2','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_2_36_2</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/Complex to Magnitude-Angle
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_33_1','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_33_1</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_33_2','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_33_2</a>' cannot be added simulink/Math Operations/Sign
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_2_35_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_2_35_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_2_35_2','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_2_35_2</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/Permute Dimensions
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_35_2</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_36_1</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_37_1/startnzb_3_35_1</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Discrete Zero-Pole
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_2</a>' cannot be added simulink/Commonly
+Used Blocks/Terminator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Discrete Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk14_sf1nzb_1_35_1/startnzb_3_37_2</a>' cannot be added simulink/Math Operations/Sign
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_36_1</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_2_36_1</a>' cannot be added simulink/Math Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_34_1','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_34_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Assignment
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sf1nzb_2_37_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk12_sf1nzb_2_37_1/startnzb_3_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_2_37_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_37_2</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/MinMax
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_2</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_3','error')">sampleModel2_pp_1_1/cfblk16_sf1nzb_1_35_1/startnzb_3_35_3</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_35_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_35_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_35_2</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_31_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_31_1</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_31_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_31_2</a>' cannot be added simulink/Math
+Operations/Bias
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_35_1</a>' cannot be added simulink/Math
+Operations
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_35_2</a>' cannot be added simulink/Commonly
+Used Blocks/Data Type Conversion
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Discrete/Discrete State-Space
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk1_sf1nzb_1_35_1/startnzb_3_35_2</a>' cannot be added simulink/Math
+Operations
+There is no block named 'simulink/Math Operations/Signum' simulink/Math Operations/Signum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_2_35_1/startnzb_2_35_1','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_2_35_1/startnzb_2_35_1</a>' cannot be added simulink/Discrete/Discrete Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_2_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_2_35_1/startnzb_3_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Terminator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_35_1/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_35_1/startnzb_3_39_1</a>' cannot be added simulink/Math
+Operations/Reshape
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_35_1/startnzb_3_35_1</a>' cannot be added simulink/Commonly
+Used Blocks/Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk15_sf1nzb_1_35_1/startnzb_3_35_1</a>' cannot be added simulink/Math Operations/Permute Dimensions
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sf1nzb_3_31_1/startnzb_3_19_1','error')">sampleModel2_pp_1_1/cfblk10_sf1nzb_3_31_1/startnzb_3_19_1</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sf1nzb_3_31_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk10_sf1nzb_3_31_1/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sf1nzb_3_31_1/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk10_sf1nzb_3_31_1/startnzb_3_37_2</a>' cannot be added simulink/Math
+Operations/Rounding
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_3_36_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_3_36_1/startnzb_3_35_1</a>' cannot be added simulink/Commonly
+Used Blocks/Gain
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_3_36_1/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_3_36_1/startnzb_3_39_1</a>' cannot be added simulink/Commonly
+Used Blocks/Data Type Conversion
+There is no block named 'simulink/Math Operations/Signum' simulink/Math Operations/Signum
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk11_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk12_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sf1nzb_1_35_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk12_sf1nzb_1_35_1/startnzb_3_37_1</a>' cannot be added simulink/Math Operations/Complex to Magnitude-Angle
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sf1nzb_1_35_1/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk12_sf1nzb_1_35_1/startnzb_3_37_2</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_2_37_1</a>' cannot be added simulink/Math
+Operations/Unary Minus
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_2_37_2</a>' cannot be added simulink/Commonly
+Used Blocks/Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_2_37_3','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_2_37_3</a>' cannot be added simulink/Discrete/Discrete FIR Filter
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_3_37_1</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk13_sf1nzb_2_38_1/startnzb_3_37_2</a>' cannot be added simulink/Ports & Subsystems/If
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_36_1</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_36_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_2_36_2</a>' cannot be added simulink/Math Operations/Complex to Real-Imag
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_1</a>' cannot be added simulink/User-Defined Functions/S-Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_39_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations/Assignment
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_2</a>' cannot be added simulink/Commonly
+Used Blocks/Gain
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sf1nzb_2_37_1/startnzb_3_36_2</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_37_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_35_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_35_1</a>' cannot be added simulink/Signal
+Routing/Manual
+Variant Sink
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_35_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_35_2</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sf1nzb_4_39_1/startnzb_3_36_1</a>' cannot be added simulink/Discrete/Discrete-Time Integrator
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk1_sb/startnzb_3_37_2</a>' cannot be added simulink/Math Operations/Permute Dimensions
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_2_36_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_2_36_1</a>' cannot be added simulink/Discrete/Difference
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_39_1','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_39_1</a>' cannot be added simulink/Math
+Operations
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_39_2','error')">sampleModel2_pp_1_1/cfblk10_sb/startnzb_3_39_2</a>' cannot be added simulink/Math Operations/Polynomial
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk12_sb/startnzb_3_37_1</a>' cannot be added simulink/Math
+Operations/Abs
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_37_1</a>' cannot be added simulink/Commonly
+Used Blocks/Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_37_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_2_37_2</a>' cannot be added simulink/Math
+Operations/Sine Wave
+Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1</a>' cannot be added simulink/Math
+Operations/Dot Product
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_36_1</a>' cannot be added simulink/Math Operations/Sign
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk10_sb/startnzb_3_37_1</a>' cannot be added simulink/Math Operations/MinMax
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1</a>' cannot be added simulink/Discrete/Unit Delay
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_2</a>' cannot be added simulink/Math
+Operations/Squeeze
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_3','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_3</a>' cannot be added simulink/Math
+Operations
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1</a>' cannot be added simulink/Math Operations/Trigonometric Function
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_1</a>' cannot be added simulink/Quick Insert/Ports &
+Subsystems/Outport
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_2','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_2</a>' cannot be added simulink/Math
+Operations/Reciprocal
+Sqrt
+A new block named '<a href="matlab:open_and_hilite_hyperlink ('sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_3','error')">sampleModel2_pp_1_1/cfblk16/cfblk3_sb/startnzb_3_37_3</a>' cannot be added simulink/Commonly
+Used Blocks/Terminator

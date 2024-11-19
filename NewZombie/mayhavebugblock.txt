@@ -1,0 +1,67 @@
+25  new Zombie block 
+cfblk11
+simulink/Math Operations/MinMax
+sampleModel2_pp_1_1/cfblk11  m:n
+cfblk12
+simulink/Math Operations/MinMax
+sampleModel2_pp_1_1/cfblk12  n:1
+cfblk13
+simulink/Math
+Operations/Abs
+sampleModel2_pp_1_1/cfblk13  1:1
+sampleModel2_pp_1_1/cfblk13  1==1
+cfblk14
+simulink/Math
+Operations/Abs
+sampleModel2_pp_1_1/cfblk14  1:n
+cfblk15
+Sub System
+sampleModel2_pp_1_1/cfblk15  m:n
+cfblk16
+Sub System
+sampleModel2_pp_1_1/cfblk16  输入输出都有的sb
+cfblk16/cfblk8
+simulink/Math
+Operations/Abs
+sampleModel2_pp_1_1/cfblk16/cfblk8  1:1
+sampleModel2_pp_1_1/cfblk16/cfblk8  1==other
+cfblk17
+Sub System
+sampleModel2_pp_1_1/cfblk17  sb是单端口多连接，问题不大
+cfblk17/cfblk10
+simulink/Math
+Operations/Abs
+sampleModel2_pp_1_1/cfblk17/cfblk10  1:1
+sampleModel2_pp_1_1/cfblk17/cfblk10  1==-1
+cfblk17/cfblk11
+Sub System
+sampleModel2_pp_1_1/cfblk17/cfblk11  n:1
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
+25  new Zombie block 
