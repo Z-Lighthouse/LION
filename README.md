@@ -42,7 +42,6 @@ Please use `git` to properly install all third-party dependencies:
     git submodule update --init
     matlab # Opens MATLAB
 
-## Hello, World!
 ### CPS Profiling  
 First, you need to put the available SLforge model into the reproduce folder and enter the following statement on the MATLAB command line   
 
