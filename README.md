@@ -1,4 +1,4 @@
-# Live Block Mutation of CPS Models for Detecting Simulink Compiler Bugs
+# Live Block Mutation Testing for Commercial Cyber-Physical Sysytem Development Tool Chain
 
 We are investigating live block mutation of commercial cyber-physical system development tool chains (e.g. MATLAB/Simulink). We present following three independant tools in this repository:
 
@@ -6,9 +6,9 @@ We are investigating live block mutation of commercial cyber-physical system dev
 - [CPS Mutation](NewMutator/)
 - [Differential Testing](+difftest/)
 
-## RQ2 Bug
+## RQ3 Bug
 
-Here we list all the bug in  article LION RQ2:
+Here we list all the bug in  article LION RQ3:
 
 [05318668](BugFile/05318668)	S-Function Too many output arguments.</br>
 [05359223](BugFile/05359223)	Compilation error prompts an unreasonable exception.</br>
