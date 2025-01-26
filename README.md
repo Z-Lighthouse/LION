@@ -86,5 +86,12 @@ Check out [SLforge homepage](https://github.com/verivital/slsf_randgen/wiki) for
 
 Check out [SLEMI homepage](https://github.com/shafiul/slemi/wiki) for latest news, running the tools and to contribute.
 
+## Time Resource Consumption Analysis Experiment
 
+### Impact of the Number of Mutation Points (\(k\))
+
+| \(N=5\)         | \(k=1\) | \(k=5\) | \(k=10\) | \(k=15\) | \(k=20\) |
+|------------------|---------|---------|----------|----------|----------|
+| Mutation Time (hours) | 39.20   | 38.30   | 36.69    | 40.67    | 39.25    |
+| Mutation Success Rate | 0.97    | 0.66    | 0.45     | 0.30     | 0.21     |
 
